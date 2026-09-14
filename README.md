@@ -66,5 +66,5 @@ I enjoy working across the stack — from designing responsive user interfaces a
 ### Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=render" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" />
 </p>
