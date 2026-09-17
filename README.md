@@ -25,7 +25,7 @@ I enjoy working across the stack — from designing responsive user interfaces a
 
 ---
 
- ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -73,18 +73,26 @@ I enjoy working across the stack — from designing responsive user interfaces a
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
-### 🚀 DevOps & Deployment
+### 🚀 DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,jenkins" />
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" />
 </p>
 
+### ☁️ Deployment
+
 <p>
-  <strong>Render • Netlify • Railway</strong>
+  <img src="https://skillicons.dev/icons?i=netlify" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="50" height="50" />
 </p>
 
 ### 🔧 Other Technologies
+
+<p>
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" width="50" height="50" />
+</p>
 
 <p>
   <strong>SWI-Prolog • PySwip • Chart.js</strong>
