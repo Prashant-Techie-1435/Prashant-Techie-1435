@@ -70,16 +70,6 @@ I enjoy working across the stack — from designing responsive user interfaces a
   <strong>MySQL • MongoDB • SQLite</strong>
 </p>
 
-### 🧠 DSA & Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python" />
-</p>
-
-<p>
-  <strong>Data Structures & Algorithms • Problem Solving • Python Programming</strong>
-</p>
-
 ### 🎨 UI/UX
 
 <p>
@@ -120,16 +110,6 @@ I enjoy working across the stack — from designing responsive user interfaces a
 
 <p>
   <strong>Netlify • Render • Railway</strong>
-</p>
-
-### 🐍 Python Ecosystem
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask" />
-</p>
-
-<p>
-  <strong>Python • Flask • PySwip • SQLite</strong>
 </p>
 
 ### 🔧 Other Technologies
