@@ -25,46 +25,67 @@ I enjoy working across the stack — from designing responsive user interfaces a
 
 ---
 
-## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-### UI/UX
+### 🧠 DSA & Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+<p>
+  <strong>Data Structures & Algorithms • Problem Solving</strong>
+</p>
+
+### 🎨 UI/UX
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### Tools & DevOps
+### 🛠️ Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,jenkins" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
-### Deployment
+### 🚀 DevOps & Deployment
 
 <p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins" />
   <img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" />
+</p>
+
+<p>
+  <strong>Render • Netlify • Railway</strong>
+</p>
+
+### 🔧 Other Technologies
+
+<p>
+  <strong>SWI-Prolog • PySwip • Chart.js</strong>
 </p>
