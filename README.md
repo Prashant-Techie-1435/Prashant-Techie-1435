@@ -1,30 +1,29 @@
 # Hi, I'm Prashant Hotkar 👋
 
-### Full-Stack Developer • Java • Python • DSA • Databases
+### Full-Stack Developer • Java • Python • DSA
 
-Building practical applications, solving problems, and continuously growing as a Software Engineer.
+Building practical applications, exploring new technologies, and continuously improving my software development skills.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an IT Engineering student focused on Full-Stack Development, Java, Python, and building practical software applications.
+I'm an Information Technology Engineering student passionate about Full-Stack Development, Java, and building practical software applications.
 
-I enjoy working across the stack — from designing responsive user interfaces and developing backend services to working with databases, APIs, automation, and deployment.
+I enjoy developing responsive web applications, integrating backend services, working with databases, and exploring solutions to real-world problems.
 
-- 💻 Full-Stack Developer focused on modern web development
-- ☕ Strengthening Java and Data Structures & Algorithms
-- 🐍 Developing applications using Python and Flask
-- 🌐 Building applications with React.js, Next.js, Node.js and Express.js
-- 🚀 Exploring backend development with Spring Boot and Flask
-- 🗄️ Working with MySQL, MongoDB and SQLite
-- 🧠 Building constraint-based applications using SWI-Prolog and PySwip
-- 🎨 Designing user interfaces and experiences with Figma
-- 📊 Creating interactive data visualizations with Chart.js
-- 🛠️ Using Git, GitHub, Postman, Docker and Jenkins
-- ☁️ Deploying applications using Render, Netlify and Railway
-- 📚 Continuously learning new technologies and software engineering practices
-- 🎯 Goal: Become a strong Software Engineer and build production-ready applications
+* 💻 Interested in Full-Stack Development and Software Engineering
+* ☕ Learning and practicing Java with Data Structures & Algorithms
+* 🌐 Building web applications using React.js, Node.js, and Express.js
+* ⚙️ Developing backend applications using Python, Flask, and Spring Boot
+* 🗄️ Working with MongoDB, MySQL, and SQLite
+* 🧠 Exploring constraint-based scheduling using SWI-Prolog and PySwip
+* 📊 Creating interactive data visualizations with Chart.js
+* 🛠️ Using Git, GitHub, Postman, and VS Code
+* 🚀 Exploring Docker, Jenkins, and application deployment
+* ☁️ Deploying projects using Render, Netlify, and Railway
+* 📚 Continuously learning through projects and practical development
+* 🎯 Goal: Become a skilled Software Engineer and build reliable, production-ready applications
 
 ---
 
@@ -40,7 +39,7 @@ I enjoy working across the stack — from designing responsive user interfaces a
   <strong>HTML • CSS • JavaScript • Java • Python</strong>
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs" />
@@ -50,34 +49,24 @@ I enjoy working across the stack — from designing responsive user interfaces a
   <strong>React.js • Next.js</strong>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
 </p>
 
 <p>
-  <strong>Node.js • Express.js • Spring Boot • Python Flask</strong>
+  <strong>Node.js • Express.js • Spring Boot • Flask</strong>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
 
 <p>
-  <strong>MySQL • MongoDB • SQLite</strong>
-</p>
-
-### 🎨 UI/UX
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-<p>
-  <strong>Figma</strong>
+  <strong>MongoDB • MySQL • SQLite</strong>
 </p>
 
 ### 🛠️ Tools & Development
@@ -90,7 +79,7 @@ I enjoy working across the stack — from designing responsive user interfaces a
   <strong>Git • GitHub • Postman • VS Code</strong>
 </p>
 
-### 🚀 DevOps
+### 🚀 DevOps & CI/CD
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,jenkins" />
@@ -112,7 +101,7 @@ I enjoy working across the stack — from designing responsive user interfaces a
   <strong>Netlify • Render • Railway</strong>
 </p>
 
-### 🔧 Other Technologies
+### 🔧 Additional Technologies
 
 <p>
   <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="50" height="50" />
@@ -122,3 +111,42 @@ I enjoy working across the stack — from designing responsive user interfaces a
 <p>
   <strong>SWI-Prolog • PySwip • Chart.js</strong>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio Website
+
+A responsive portfolio website showcasing my projects, technical skills, and development journey.
+
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+
+### 🎓 StudoDevlop
+
+A college project focused on developing a full-stack platform with student management and backend integration.
+
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+
+### 🧠 Automated Intelligent Scheduler System (AISS)
+
+An intelligent academic timetable generator that uses constraint-based scheduling to automate timetable creation.
+
+**Tech Stack:** Python • Flask • SWI-Prolog • PySwip • SQLite
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/Prashant-Techie-1435">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prashant-hotkar-245136353/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ Always learning, building, and improving.
